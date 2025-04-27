@@ -1,3 +1,2 @@
 # Repository_leo
-info test 
-lalala
+This is my report for the second assignment of Data Analytics.
